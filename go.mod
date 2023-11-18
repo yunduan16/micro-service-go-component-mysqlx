@@ -1,4 +1,4 @@
-module micro-service-go-component/mysqlx
+module github.com/yunduan16/micro-service-go-component-mysqlx
 
 go 1.18
 
